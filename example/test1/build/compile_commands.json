@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/wuqiuyu/learn/openGL/project/example/test1/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/glfw/3.3.2/include -I/Users/wuqiuyu/learn/openGL/project/example/test1/HelloGL/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -o CMakeFiles/HelloGL.dir/example/Blending/main.cpp.o -c /Users/wuqiuyu/learn/openGL/project/example/test1/example/Blending/main.cpp",
+  "file": "/Users/wuqiuyu/learn/openGL/project/example/test1/example/Blending/main.cpp"
+},
+{
+  "directory": "/Users/wuqiuyu/learn/openGL/project/example/test1/build",
+  "command": "/usr/bin/clang  -I/usr/local/Cellar/glfw/3.3.2/include -I/Users/wuqiuyu/learn/openGL/project/example/test1/HelloGL/include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -o CMakeFiles/HelloGL.dir/glad.c.o -c /Users/wuqiuyu/learn/openGL/project/example/test1/glad.c",
+  "file": "/Users/wuqiuyu/learn/openGL/project/example/test1/glad.c"
+}
+]
